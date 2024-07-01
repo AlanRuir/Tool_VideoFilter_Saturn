@@ -1,0 +1,3 @@
+/home/nyx/Apps/VideoFilter/build/CMakeFiles/VideoFilter.dir
+/home/nyx/Apps/VideoFilter/build/CMakeFiles/edit_cache.dir
+/home/nyx/Apps/VideoFilter/build/CMakeFiles/rebuild_cache.dir
